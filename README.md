@@ -1,18 +1,12 @@
-- 👋 Hi, I’m @jeanvargasdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 - [x] Criar o repositório no GitHub com a estrutura do Gitflow, ou seja, branches main e develop.
-- [x] Criar branches feature a partir do branch develop para cada nova funcionalidade a ser implementada. 
-- [x] Usar algum framework CSS (Bootstrap, Materialize ou outro).
-- [x] Apresentar as telas com layout responsivo.
-- [x] Usar componentes de algum framework CSS (Bootstrap, Materialize ou outro)
-- [x] Apresentar as telas com layout responsivo usando ou não algum framework CSS.
-- [x] Construir páginas web com o conceito de componentes.
-- [x] Criar o layout da aplicação com componentes, ou seja, o cabeçalho e rodapé precisam ser componentes.
-- [x] Usar pelo menos dois tipos de data-binding (Interpolation, Property Binding, Event Binding e Two Way Data Binding).
+- [ ] Criar branches feature a partir do branch develop para cada nova funcionalidade a ser implementada. 
+- [ ] Usar algum framework CSS (Bootstrap, Materialize ou outro).
+- [ ] Apresentar as telas com layout responsivo.
+- [ ] Usar componentes de algum framework CSS (Bootstrap, Materialize ou outro)
+- [ ] Apresentar as telas com layout responsivo usando ou não algum framework CSS.
+- [ ] Construir páginas web com o conceito de componentes.
+- [ ] Criar o layout da aplicação com componentes, ou seja, o cabeçalho e rodapé precisam ser componentes.
+- [ ] Usar pelo menos dois tipos de data-binding (Interpolation, Property Binding, Event Binding e Two Way Data Binding).
 - [ ] Passar dados via hierarquia de componentes, ou seja, usando @Input ou @Output.
 - [ ] Mapear componentes à rotas no módulo de rotas.
 - [ ] Criar navegação entre páginas por meio de rotas.
